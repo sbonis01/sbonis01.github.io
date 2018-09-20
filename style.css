@@ -11,6 +11,8 @@ body{
 span.caption{
 	font-weight: bold;
 	color: red;
+	font-weight: bold;
+
 }
 
 span.links{
@@ -26,11 +28,6 @@ h1{
 h2{
 	color: red;
 	font-size: 18pt;
-}
-
-h4{
-	font-weight: bold;
-	color: purple;
 }
 
 a{
