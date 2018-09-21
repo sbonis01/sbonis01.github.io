@@ -8,14 +8,21 @@ body{
 	text-align: center;
 }
 
-span.caption{
-	font-weight: bold;
-	color: red;
-	font-weight: bold;
-
+p{
+	color: black;
+	font-size: 12pt;
+	font-weight: normal;
+	text-align: center;
 }
 
-span.links{
+.caption{
+	font-weight: bold;
+	color: red;
+	width: 100%;
+	text-align: center;
+}
+
+.links{
 	text-align: center;
 	font-family: helvetica;
 }
@@ -33,6 +40,7 @@ h2{
 a{
 	color: red;
 	font-weight: bold;
+	text-align: center;
 }
 
 li{
@@ -40,8 +48,3 @@ li{
 	font-weight: bold;
 }
 
-p{
-	color: black;
-	font-size: 12pt;
-	font-weight: normal;
-}
