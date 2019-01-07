@@ -1,0 +1,52 @@
+body{
+	background-color: #A9A9A9;
+}
+#header{
+	color: black;
+	border-style: double;
+	border-color: white;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-size: 12pt;
+	font-weight: normal;
+	text-align: center;
+}
+
+.caption{
+	font-weight: bold;
+	color: red;
+	width: 100%;
+	text-align: center;
+}
+
+.links{
+	text-align: center;
+	font-family: helvetica;
+}
+
+h1{
+	text-align: center;
+	color: red;
+	font-size: 24pt;
+}
+
+h2{
+	color: red;
+	font-size: 18pt;
+	text-align: center;
+}
+
+a{
+	color: red;
+	font-weight: bold;
+	text-align: center;
+}
+
+li{
+	color: white;
+	font-style: oblique;
+}
+
